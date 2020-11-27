@@ -1,6 +1,0 @@
-Dataset : https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
-
-1. https://medium.com/@muabusalah/twitter-hate-speech-sentiment-analysis-6060b45b6d2c
-2. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html#sklearn.ensemble.ExtraTreesClassifier
-
-
