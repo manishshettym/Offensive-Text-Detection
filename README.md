@@ -3,6 +3,8 @@
 This project aims to detect offensive ( Racist , Sexist etc ) text from social media posts (tweets) using NLP techniques
 and sentiment analysis with the help of Machine Learning / Deep learning models.
 
+### Please find the Experience paper: [Experience Paper](https://github.com/ManishShettyM/NLP-Offensive-Text-Detection/blob/master/Experience_Paper.pdf)
+
 #### References
 
 Mahmud, A., Ahmed, K.Z. and Khan, M., 2008. Detecting flames and insults in text.
